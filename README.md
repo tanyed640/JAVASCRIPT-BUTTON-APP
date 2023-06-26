@@ -10,7 +10,7 @@
 </ul>
 
 <h3>Use  of this Project</h4>
-<p>This project is for practicing HTML, CSS, JAVASCRIPT skils. This is good beginner friendly project to get started with. It changes the background color of the buttons.</p>
+<p>This project is for practicing HTML, CSS, JAVASCRIPT skills. This is good beginner friendly project to get started with. It changes the background color of the buttons.</p>
 
 #### Steps to Use:
 ---
