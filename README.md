@@ -15,7 +15,6 @@
 #### Steps to Use:
 ---
 
-- Go to the directory
 - Open terminal 
 - Run 
 ```
